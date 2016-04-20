@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "es6",
-    "jsx": "preserve"
-  },
-  "exclude": [
-    "node_modules"
-  ]
-}
