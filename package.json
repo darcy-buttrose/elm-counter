@@ -14,22 +14,12 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
     "babel-preset-es2016": "^6.0.9",
     "babel-runtime": "^6.6.1",
-    "chai": "^3.5.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
-    "gulp-mocha": "^2.2.0",
-    "gulp-typescript": "^2.12.1",
-    "sinon": "^1.17.3",
-    "typescript": "^1.8.9",
     "webpack-stream": "^3.1.0"
   },
   "dependencies": {
     "babel-polyfill": "^6.7.4",
-    "cycle-react": "^4.0.0",
-    "gulp-elm": "^0.4.1",
-    "keymirror": "^0.1.1",
-    "react": "^0.14.8",
-    "react-dom": "^0.14.8",
-    "rx": "^4.1.0"
+    "gulp-elm": "^0.4.1"
   }
 }
